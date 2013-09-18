@@ -10,7 +10,7 @@ Also a catalog with the places/monuments and gps navigation features will be add
  * Multithread image loading
  * Map with some interesting spots (not full filled)
  
- ## Work on progress
+## Work on progress
  
  * GPS tracking
  * Catalog
