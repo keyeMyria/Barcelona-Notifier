@@ -19,6 +19,6 @@ Also a catalog with the places/monuments and gps navigation features will be add
  
 ## Change log
 
-2013 09 18 - **0.1b**
-* Repository created
+2013 09 18 - **0.1b** (804 KB)
+* Repository created 
 * Added License and Readme
