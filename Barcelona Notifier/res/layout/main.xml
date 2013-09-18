@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    		  xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+		   	  android:id="@+id/mainLayout"
+		  	  android:layout_width="fill_parent"
+		  	  android:layout_height="fill_parent"
+		 	  android:orientation="vertical" >
+	
+	<com.google.android.maps.MapView
+		android:id="@+id/mapview"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:clickable="true"
+		android:apiKey="0tzb3UKgW3-IFFdwy00pAxvdg_7gCHOVJm9EHJA"
+	/>
+
+  <!-- <com.google.ads.AdView
+       android:id="@+id/ad"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentBottom="true"
+       android:layout_alignParentLeft="true"
+       ads:adSize="BANNER"
+       ads:adUnitId="000000000000000"
+       ads:loadAdOnCreate="true"
+       ads:refreshInterval="60"
+       ads:testDevices="6F62869096875EE3ED18196ABF8E5D42" >
+   </com.google.ads.AdView> --> 
+
+   <!--<TextView
+       android:id="@+id/textView1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentTop="true"
+       android:layout_centerHorizontal="true"
+       android:layout_marginTop="62dp"
+       android:textAppearance="?android:attr/textAppearanceLarge" /> -->
+    
+</RelativeLayout>
